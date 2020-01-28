@@ -5,5 +5,5 @@ def mario
 end
 
 def toadstool
-  puts "Than You Mario! But Our Princess Is In Another Castle"
+  puts "Than You Mario! But Our Princess Is In Another Castle!"
 end
